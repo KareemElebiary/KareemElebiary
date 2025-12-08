@@ -1,0 +1,4 @@
+Flask
+gspread
+google-oauth2-service-account
+pandas
